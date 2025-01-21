@@ -1,0 +1,12 @@
+Revisiting Image Tag
+
+
+
+<img src="link" height=50px >
+                  ↑
+                  set height
+
+
+<img src="link" width=50px
+                 ↑
+                set width
