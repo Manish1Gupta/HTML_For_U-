@@ -1,0 +1,35 @@
+Page Layout Techniques
+
+using Semantic tags for layout
+
+
+using the Right Tags
+...............................................................
+
+<header>
+
+<main>
+
+<footer>
+
+..........................................................................
+.............................................................................
+Inside Main Tag
+
+Section Tag
+
+<section>
+
+For a section on your page
+
+Article Tag
+
+<article>
+
+For an article on your page
+
+Aside Tag
+
+<aside>
+
+For content aside main content(ads)
