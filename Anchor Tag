@@ -1,0 +1,9 @@
+Revisiting Anchor Tag
+
+<a href="https://google.com" target="_main"> Google </a>
+                                   |
+                               for new tab
+
+<a href="https://google.com"> <img src="link"> </a>
+                                  |
+                               clickable pic
